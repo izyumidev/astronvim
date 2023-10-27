@@ -1,3 +1,4 @@
 return {
-    -- "AstroNvim/astrocommunity",
+    "AstroNvim/astrocommunity",
+    { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
